@@ -15,9 +15,9 @@ body{
 
 
 .footer-container{
-    width: 50vw;
+    width: 70vw;
     height: 12vh;
-    background-color: #dddddd;
+    background-color: white;
     border-radius: 20px;
     border: 1px solid rgb(186, 186, 186);
     display: flex;
@@ -32,30 +32,35 @@ body{
 .footer-container .btn{
     text-align: center;
     padding: 10px 18px;
-    margin-right: 20px;
+    margin-right: 15px;
     font-weight: 700;
     border: 1px solid rgb(153, 153, 153);
     border-radius: 20px;
-    background-color: rgb(255, 255, 255);
+    color: white;
 }
 
 .btn-a{
-    color: rgb(187, 255, 255);
+    background-color : rgb(187, 255, 255);
 }
 .btn-r{
-    color: gray;
+    background-color: gray;
 }
 .btn-y{
-    color: antiquewhite;
+    background-color:  antiquewhite;
 }
 .btn-g{
-    color: green;
+    background-color : green;
 }
 
 .btn-o{
-    color: orange;
+    background-color:orange;
 }
 
 .btn-b{
-    color: blue;
+    background-color: blue;
 }
+
+.btn-bl{
+    background-color: black;
+}
+

@@ -14,7 +14,7 @@ function App() {
         backgroundColor: color,
         display : "flex",
         justifyContent: "center",
-        alignItems :"e"
+        alignItems :"end"
 
       }
       }>
@@ -25,6 +25,7 @@ function App() {
         <button className = "btn btn-a" onClick={()=>{setcolor("aqua")}}>Aqua</button>
         <button className = "btn btn-b" onClick={()=>{setcolor("blue")}}>Blue</button>
         <button className = "btn btn-o" onClick={()=>{setcolor("orange")}}>Orange</button>
+        <button className = "btn btn-bl" onClick={()=>{setcolor("black")}}>Black</button>
 
 
       </footer>
