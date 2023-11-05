@@ -1,4 +1,4 @@
-﻿# Back-Ground-Changer-App
+﻿# Back ground changer App
  
  ### "React Background Change App: A simple React application that allows users to change the background color with a click of a button. A fun and interactive project to explore React's capabilities for dynamic UI changes."
 
